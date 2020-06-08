@@ -1,1 +1,21 @@
-# datascience-project
+# Data Science 1 - Project
+
+In this project we will examine the relationship of crime location in London Metropolitan Area with the housing prices. 
+
+
+
+Crime Data Source: [here](https://www.kaggle.com/deanfoulds/london-met-police-crime-data-20192020)
+
+London House Prices: [here](https://data.london.gov.uk/dataset/average-house-prices)
+
+## Python Libaries used:
+
+- Numpy 1.18.1
+- Matplotlib 3.1.3
+- Scikit Learn 0.23.1
+- pandas 1.0.3
+- seaborn 0.10.1
+- folium 0.11.0
+
+## Python version
+- Python 3.7.7
