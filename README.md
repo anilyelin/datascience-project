@@ -2,7 +2,7 @@
 
 In this project we will examine the relationship of crime location in London Metropolitan Area with the housing prices. 
 
-
+![Figure 1: Screenshot](https://github.com/anilyelin/datascience-project/blob/master/screenshot.png "Figure 1: Crime Location Heat Map London")
 
 Crime Data Source: [here](https://www.kaggle.com/deanfoulds/london-met-police-crime-data-20192020)
 
