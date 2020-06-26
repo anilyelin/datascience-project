@@ -1,6 +1,6 @@
 # Data Science 1 - Project
 
-In this project we will examine the relationship of crime location in London Metropolitan Area with the housing prices. 
+Exploration and data analysis of the crime in London. 
 
 ![Figure 1: Screenshot](https://github.com/anilyelin/datascience-project/blob/master/screenshot.png "Figure 1: Crime Location Heat Map London")
 
